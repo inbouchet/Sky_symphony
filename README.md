@@ -1,6 +1,9 @@
 # Sky_symphony
 
-Project in collaboration with Laetitia Cabrol in Master 2 ASPIC (Autonomous Systems, Perception Interaction & Control)
+The goal of this project is to create an autonomous spectacle of swarm drones, to replace fireworks from an ecological and safe point of view.
+General principle : a control unit sends each drone a position to respect according to a cloud of points given to it.
+
+Project in collaboration with Laetitia Cabrol in Master 2 ASPIC (Autonomous Systems, Perception Interaction & Control).
 
 
 ## Demo
