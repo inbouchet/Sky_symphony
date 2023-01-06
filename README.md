@@ -14,6 +14,10 @@ https://user-images.githubusercontent.com/83234731/210969514-a7eb0bd1-2a47-4e33-
 
 https://gitlab.emi.u-bordeaux.fr/inbouchet/Sky-symphony
 
+## Specifications
+
+[Cahier des charges.pdf](https://github.com/inbouchet/Sky_symphony/files/10359805/Cahier.des.charges.pdf)
+
 
 ## Getting started
 
